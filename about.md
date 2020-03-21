@@ -40,6 +40,7 @@ I specialize in web development. I would love to work on any interesting (or cha
   - Graphql
   - Python
   - C
+  - Flutter
   - Java
   - Go
   - Elm
