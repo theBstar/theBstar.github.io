@@ -27,7 +27,7 @@ I am a natural introvert. But I have cracked the formula for floating around tha
 Call me for a game of cricket or a run, I am always ready. Party, Movies, Travel? Let me think...
 
 
-I specialize in web development. I would love to work on any interesting (or challenging, that's what they say) engineering problem, any domain, any stack.
+I specialize in web development. I would love to work on any interesting (or challenging, that's what they say) engineering problem in any domain and stack.
 
 ### I have worked on
   - Javascript
