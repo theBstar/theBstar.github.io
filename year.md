@@ -11,8 +11,8 @@ published: true
 
 {% comment %} add a x  between [] to mark as complete {% endcomment %}
 
-- [ ] &nbsp; Pass Google Mobile Web specialist certification (first half).
-- [ ] &nbsp; Run a half marathon (first half).
+- [ ] &nbsp; Pass Google Mobile Web specialist certification.
+- [ ] &nbsp; Run a half marathon.
 - [x] &nbsp; <del>Play an organized leather ball tournament.</del>
 - [ ] &nbsp; Contribute to at least 1 machine learning codebase.
 - [X] &nbsp; <del>Contribute to at least 4 open source react projects</del> <mark>[4/4]</mark>.
@@ -22,8 +22,6 @@ published: true
 
 And some habitual goals:
 
-- &nbsp; 52 tech blog <mark>[1/52]</mark>.
+- &nbsp; 52 tech blog <mark>[2/52]</mark>.
 - &nbsp; Bi-weekly life blog <mark>[8/24]</mark>.
-- &nbsp; Community work <mark>[4/12]</mark>.
-
 </div>
