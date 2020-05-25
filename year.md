@@ -23,5 +23,5 @@ published: true
 And some habitual goals:
 
 - &nbsp; 52 tech blog <mark>[2/52]</mark>.
-- &nbsp; Bi-weekly life blog <mark>[8/24]</mark>.
+- &nbsp; Bi-weekly life blog <mark>[9/24]</mark>.
 </div>
