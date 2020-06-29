@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Running-with-a-bag-of-goals-is-not-helping"
+title:  "Running with a bag of goals is not helping"
 tags:
   - life
 hero: https://source.unsplash.com/collection/430471/
-overlay: white
+overlay: orange
 published: true
 
 ---
