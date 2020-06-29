@@ -14,7 +14,7 @@ published: true
 - [ ] &nbsp; Pass Google Mobile Web specialist certification.
 - [ ] &nbsp; Run a half marathon.
 - [x] &nbsp; <del>Resume leather ball cricket, play at least a tournament</del>
-- [X] &nbsp; <del> Contribute to at least 4 open source react projects </del> <mark>[4/4]</mark>.
+- [X] &nbsp; <del> Contribute to at least 4 open source react projects </del> <mark>[5/4]</mark>.
 - [ ] &nbsp; Contribute to at least 2 open source typescript project. Declaration file, etc. <mark>[0/2]</mark>.
 - [x] &nbsp; <del> Learn flutter </del> <mark>[1/1]</mark>.
 - [ ] &nbsp; Finish in top 50 in a CP event, or score at least 1800 rating on hackerEarth <mark>[1395/1800]</mark>.
@@ -22,6 +22,6 @@ published: true
 
 And some habitual goals:
 
-- &nbsp; Bi-weekly tech blog <mark>[3/24]</mark>.
-- &nbsp; Bi-weekly life blog <mark>[9/24]</mark>.
+- &nbsp; Bi-weekly tech blog <mark>[4/24]</mark>.
+- &nbsp; Bi-weekly life blog <mark>[10/24]</mark>.
 </div>
