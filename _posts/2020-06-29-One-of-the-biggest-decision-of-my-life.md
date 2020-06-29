@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "One of the biggest decision of life"
+title:  "One of the biggest decision of my life"
 tags:
   - life
 hero: https://source.unsplash.com/collection/430471/
