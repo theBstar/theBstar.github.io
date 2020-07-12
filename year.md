@@ -17,11 +17,11 @@ published: true
 - [X] &nbsp; <del> Contribute to at least 4 open source react projects </del> <mark>[5/4]</mark>.
 - [ ] &nbsp; Contribute to at least 2 open source typescript project. Declaration file, etc. <mark>[0/2]</mark>.
 - [x] &nbsp; <del> Learn flutter </del> <mark>[1/1]</mark>.
-- [ ] &nbsp; Finish in top 50 in a CP event, or score at least 1800 rating on hackerEarth <mark>[1395/1800]</mark>.
+- [ ] &nbsp; Finish in top 50 in a CP event, or score at least 1800 rating on hackerEarth <mark>[1228/1800]</mark>.
 - [ ] &nbsp; Contribute to at least 1 machine learning codebase.
 
 And some habitual goals:
 
 - &nbsp; Bi-weekly tech blog <mark>[4/24]</mark>.
-- &nbsp; Bi-weekly life blog <mark>[10/24]</mark>.
+- &nbsp; Bi-weekly life blog <mark>[12/24]</mark>.
 </div>
