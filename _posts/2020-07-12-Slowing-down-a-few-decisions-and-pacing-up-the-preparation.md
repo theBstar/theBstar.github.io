@@ -12,7 +12,7 @@ This month has been very busy. I made a few quick decisions. I still back them b
 {: .lead}
 <!–-break-–>
 
-Maybe I need to slow down and make a more robust plan for returning to Assam. I am pretty much with the idea of going back with a job, exploring and trying out things over there. The only thing that worries me is how that will go? Will I be more relaxed? Maybe or maybe not. But there is no harm to go with a job. But If I am not able to focus for a month or so, I have to say goodbye to the job. Let's see. Considering the current situation I don't see it happening in July. I am planning to move by early Sept. But It also depends on the corona cases and the weather in Assam.
+Maybe I need to slow down and make a more robust plan for returning to Assam. I am pretty much with the idea of going back with a job, exploring and trying out things over there. The only thing that worries me is how that will go? Will I be more relaxed? Maybe or maybe not. But there is no harm to go with a job. But If I am not able to focus for a month or so, I have to say goodbye to the job. Let's see. I am yet to make this decision. I will come to a conclusion by this week. Considering the current situation I don't see it happening in July. I am planning to move by early Sept. But It also depends on the corona cases and the weather in Assam.
 
 <!–-break-–>
 
