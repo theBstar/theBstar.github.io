@@ -12,7 +12,7 @@ Don't try to be like me. You don't have to be like me. You may like a few things
 {: .lead}
 <!–-break-–>
 
-Last 2-3 week were very intense professionally. We were selected in the top 20 teams in the world by g20 tech sprint. We were working for the final submission which is due today. But I am not here to talk about that. I am going to talk about the two closely resembling conversations I had last week. One of them was between me and my brother and other between me and one of my friends.
+Last 2-3 week were very intense professionally. We were selected in the top 20 teams in the world by g20 tech sprint. We were working for the final submission which is due today (31st of Aug 2020). But I am not here to talk about that. I am going to talk about the two closely resembling conversations I had last week. One of them was between me and my brother and other between me and one of my friends.
 
 My brother was telling me how I manage to remain focused for a long period. It is not entirely true. But there to some extent I agree. Life is really complicated, You never know what it has planned. Planning for a long period is nothing if you are not able to adapt to the challenges. I frequently find myself changing approach although the end goal remains more or less the same. But we are not talking about this either. 1 to 1 comparison is always pointless. Different people have different abilities, different skill sets, different priorities and so on. all this contributes to the overall personalities. 
 
