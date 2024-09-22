@@ -24,20 +24,30 @@ export default function Portfolio() {
             <h2 className="text-lg text-gray-300 mb-1">Founding Engineer @ Houseware</h2>
             <p className="text-gray-400 mb-6">Prev @ OrangeHealth</p>
 
-            <div className="flex justify-left space-x-8 mb-4  ">
+            <div className="flex justify-left space-x-8 mb-6">
               <SocialLink href="https://x.com/thebstar13" icon={<Twitter className="w-5 h-5" />} label="Twitter" />
               <SocialLink href="https://github.com/thebstar" icon={<Github className="w-5 h-5" />} label="GitHub" />
               <SocialLink href="https://www.linkedin.com/in/thebstar/" icon={<Linkedin className="w-5 h-5" />} label="LinkedIn" />
               <SocialLink href="mailto:6bikramsutar@gmail.com" icon={<Mail className="w-5 h-5" />} label="Email" />
             </div>
 
-            <a
-              href={"https://www.thebstar.com/blogs/"}
-              className="text-gray-300 hover:text-white transition-colors duration-200 underline"
-              aria-label={"Read blogs"}
-            >
-              Read blogs
-            </a>
+            <div className="flex flex-col gap-2 ">
+              <a
+                href={"https://medium.com/@theBstaR"}
+                className="text-gray-500 hover:text-white transition-colors duration-200 underline"
+                aria-label={"Read Technical blogs"}
+              >
+                Read technical blogs
+              </a>
+              <a
+                href={"https://www.thebstar.com/blogs/"}
+                className="text-gray-500 hover:text-white transition-colors duration-200 underline"
+                aria-label={"Read blogs"}
+              >
+                Read life blogs
+              </a>
+            </div>
+
           </div>
 
           {/* Right column */}
