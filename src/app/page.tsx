@@ -34,14 +34,14 @@ export default function Portfolio() {
             <div className="flex flex-col gap-2 ">
               <a
                 href={"https://medium.com/@theBstaR"}
-                className="text-gray-500 hover:text-white transition-colors duration-200 underline"
+                className="text-gray-400 hover:text-white transition-colors duration-200 underline"
                 aria-label={"Read Technical blogs"}
               >
                 Read technical blogs
               </a>
               <a
                 href={"https://www.thebstar.com/blogs/"}
-                className="text-gray-500 hover:text-white transition-colors duration-200 underline"
+                className="text-gray-400 hover:text-white transition-colors duration-200 underline"
                 aria-label={"Read blogs"}
               >
                 Read life blogs
@@ -52,16 +52,16 @@ export default function Portfolio() {
 
           {/* Right column */}
           <div className="md:w-2/3 p-8 bg-white/30 flex flex-col justify-center">
-            <h2 className="text-4xl font-bold mb-4 text-gray-700">Hi 👋</h2>
-            <p className="text-lg text-gray-800">
+            <h2 className="text-4xl font-bold mb-10 text-gray-700 text-center">Hi 👋</h2>
+            <p className="text-lg text-gray-800 text-center">
               I am glad you are here. I am a hustler and a builder who loves to make an impact in people&#39;s lives. I have been building software since 2018. Building software to serve thousands of users for their diagnostic needs during the COVID-19 pandemic was the most satisfying work I have done.
               Now @Houseware, being the first hire, I have seen company building from scratch. I have been instrumental in building the core product and the culture.
             </p>
 
-            <p className="text-lg text-gray-700 mt-2">
-              When not building, I play a bit of Cricket, I run a community Cricket club with more than 50 members. I also do a bit of running. 1:52 is my latest half marathon PB (April 2023).
+            <p className="text-lg text-gray-700 mt-2 text-center">
+              When not building, I play a bit of Cricket. I founded a community Cricket club, 50 plus members now. I also do a bit of running. 1:52 is my latest half marathon PB (April 2023).
             </p>
-            <p className="text-lg text-gray-700 mt-2">
+            <p className="text-lg text-gray-700 mt-2 text-center">
               Since July 2024, I have been running community events for kids in my area with a friend. Collectively more than 100 kids have participated.
             </p>
           </div>
